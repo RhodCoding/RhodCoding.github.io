@@ -1,8 +1,19 @@
 <script lang="ts">
-     import { Alert } from "flowbite-svelte"
+     import { Alert } from "flowbite-svelte";
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<section>
+<div class="container-one">
+    <div class="name">
+       <h1>My Name is Rhodelito Pingal</h1>
+       <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Optio omnis, similique perspiciatis, error nesciunt maiores</h2>
+    </div>
+    <img src="/assets/me.png" alt="Me" />
 
-<Alert>Test</Alert>
+</div>
+
+<div class="container-two">
+
+</div>
+</section>
