@@ -16,7 +16,7 @@
         <li><a href="/projects">Projects</a></li>
         <li><a href="/contact">Contact</a></li>
       </ul>
-        <a href="/">More</a>
+        <a href="https://github.com/RhodCoding" class="git">Github</a>
     </nav>
 <slot></slot>
 </main>
