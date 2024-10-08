@@ -9,15 +9,14 @@
 </svelte:head>
 
 <main> <!--Navigation-->
- <div class="top">
-    <p>test</p>
- <nav>
-    <a href="/">Home</a>
-    <a href="/page-two">Page2</a>
-    <a href="/">More</a>
-    <a href="/">More</a>
- </nav>
-    <a href="/">Login</a>
-</div>
+    <nav>
+        <h1>Portfolio</h1>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+        <a href="/">More</a>
+    </nav>
 <slot></slot>
 </main>

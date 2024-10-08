@@ -6,8 +6,9 @@
 <div class="container-one">
     <div class="name">
        <h1>My Name is Rhodelito Pingal</h1>
-       <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Optio omnis, similique perspiciatis, error nesciunt maiores</h2>
+       <h2>I'm a college student currently studying at 
+        Gordon College, where I'm pursuing my passion 
+        for Computer Science.</h2>
     </div>
     <img src="/assets/me.png" alt="Me" />
 
@@ -20,10 +21,13 @@
          <img src="/assets/school.png" alt="School">
          <h1>School?</h1>
         </div>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Eaque reiciendis quas laborum placeat perspiciatis laudantium in, impedit, 
-            ab rem sapiente esse nemo cumque repellat, incidunt obcaecati 
-            vel cum fuga delectus?</p>
+         <p>Gordon College's Bachelor of Science in Computer 
+            Science (BSCS) program provides a strong foundation in computing, 
+            covering programming, algorithms, software development, 
+            and newer fields like AI and cybersecurity. 
+            It emphasizes hands-on projects and internships, 
+            equipping students with both theoretical knowledge and practical 
+            skills for careers in technology.</p>
     </div>
 
     <div class="skill">
@@ -31,10 +35,13 @@
             <img src="/assets/skill.png" alt="Skill">
             <h1>Skills?</h1>
            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-               Eaque reiciendis quas laborum placeat perspiciatis laudantium in, impedit, 
-               ab rem sapiente esse nemo cumque repellat, incidunt obcaecati 
-               vel cum fuga delectus?</p>
+            <p>
+                Self-Motivation: Staying driven and proactive, especially when managing independent studies or projects.<br>
+                Adaptability: Adjusting to new challenges and learning new concepts quickly.<br>
+                Decision-Making: Evaluating options and making informed choices.<br>
+                Listening: Paying attention and retaining information during lectures or conversations.<br>
+                Problem-Solving: Finding solutions to everyday challenges.
+            </p>
     </div>
 
     <div class="hobby">
@@ -42,10 +49,11 @@
             <img src="/assets/hobby.png" alt="Hobby">
             <h1>Hobby?</h1>
            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-               Eaque reiciendis quas laborum placeat perspiciatis laudantium in, impedit, 
-               ab rem sapiente esse nemo cumque repellat, incidunt obcaecati 
-               vel cum fuga delectus?</p>
+            <p>
+                -Basketball<br>
+                -Gaming<br>
+                -Programming
+            </p>
     </div>
 
 </div>
