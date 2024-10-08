@@ -252,8 +252,8 @@ nav h1 {
 /*Contact css*/
 .contact {
     background-color: #BCF2F6;
-    width: 60%;
-    height: 400px;
+    width: 46%;
+    height: 320px;
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -268,4 +268,42 @@ nav h1 {
     height: 70px;
     background-color: #08C2FF;
     border-radius: 20px 20px 0 0;
+}
+.contact2 h1 {
+    font-size: 30px;
+    color: white;
+}
+.social {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+}
+.social .contact-img {
+    position: relative;
+    width: 230px;
+    height: 230px;
+    float: right;
+    bottom: 220px;
+    right: 20px;
+}
+.social2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.social2 img {
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px 0 0 10px;
+}
+.social img {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.social2 p {
+    background-color: white;
+    height: 30px;
+    padding-right: 4px;
 }
