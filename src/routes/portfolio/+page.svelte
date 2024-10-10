@@ -47,7 +47,7 @@
       <div class="s-img">
          <img src="/assets/coding.jpg" alt="Science-me">
          <p>
-           Learning Angular
+           Learning PHP
          </p>
       </div>
 

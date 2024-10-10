@@ -10,11 +10,12 @@
 
 <main> <!--Navigation-->
     <nav>
-        <h1>Portfolio</h1>
+        <h1>portfolio</h1>
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/projects">Projects</a></li>
-        <li><a href="/contact">Contact</a></li>
+        <li><a href="/">home</a></li>
+        <li><a href="/portfolio">portfolio</a></li>
+        <li><a href="/about">about</a></li>
+        <li><a href="/contact">contact</a></li>
       </ul>
         <a href="https://github.com/RhodCoding" class="git">Github</a>
     </nav>
