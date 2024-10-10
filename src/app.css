@@ -4,14 +4,17 @@
 
 body {
     background-color: #387478;
+    padding: 0;
+    margin: 0;
 }
 main {
     position: relative;
-    /* background-color: blue; */
 }
 /**************NavBar***************/
 nav {
     position: sticky;
+    top: 0;
+    left: 0;
     background-color: #243642;
     color: white;
     width: 100%;
@@ -26,7 +29,7 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 300px;
+    width: 350px;
 }
 nav ul li a {
     font-size: 17px;
@@ -45,8 +48,12 @@ nav h1 {
     border-radius: 5px;
 }
 /***********************************/
+
+/*Welcome Page*/
+section {
+    margin-top: 70px;
+}
 .container-one {
-    /* background-color: brown; */
     margin-top: 10px;
     display: flex;
     flex-direction: row;
@@ -56,6 +63,33 @@ nav h1 {
     border-radius: 70% 30% 70% 30% / 30% 52% 48% 70%;
     background-color: #243642;
 }
+.name {
+    width: 500px;
+    height: 250px;
+    margin-left: 85px;
+    color: white;
+
+    h1 {
+        font-size: 55px;
+    }
+    h2 {
+        font-size: 32;
+        margin-bottom: 30px;
+    }
+    a {
+        border-radius: 5px;
+        background-color: #08C2FF;
+        padding: 10px 20px 10px 20px;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    a:hover {
+        background-color: #037da5;
+    }
+}
+/***************************/
+
+/*About Page*/
 .container-two {
     display: flex;
     flex-direction: column;
@@ -145,24 +179,8 @@ nav h1 {
     flex-direction: row;
     margin-bottom: 30px;
 }
-.name {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    width: 500px;
-    height: 250px;
-    /* background-color: chartreuse; */
-    margin-left: 85px;
-    color: white;
-
-    h1 {
-        font-size: 55px;
-    }
-    h2 {
-        font-size: 32;
-    }
-}
-/*Project Css*/
+/*****************************/
+/*Portfolio Page*/
 .science img {
     width: 300px;
     height: 200px;
@@ -249,7 +267,7 @@ nav h1 {
     color: rgb(63, 63, 250);
     padding: 5px;
 }
-/*Contact css*/
+/*Contact Page*/
 .contact {
     background-color: #BCF2F6;
     width: 46%;
@@ -257,7 +275,7 @@ nav h1 {
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 .contact2 {
     position: relative;
