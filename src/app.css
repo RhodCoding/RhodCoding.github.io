@@ -278,15 +278,15 @@ section {
         align-items: center;
         background-color: #629584;
         width: 100%;
-        height: 1500px;
+        height: 1700px;
         color: white;
     
         .school {
             display: flex;
             flex-direction: column;
             border: white solid 2px;
-            width: 400px;
-            height: 400px;
+            width: 300px;
+            height: 550px;
             padding: 30px;
     
             h1 {
@@ -311,8 +311,8 @@ section {
             display: flex;
             flex-direction: column;
             border: white solid 2px;
-            width: 400px;
-            height: 450px;
+            width: 300px;
+            height: 620px;
             padding: 30px;
 
             h1 {
@@ -337,8 +337,8 @@ section {
             display: flex;
             flex-direction: column;
             border: white solid 2px;
-            width: 400px;
-            height: 420px;
+            width: 300px;
+            height: 300px;
             padding: 30px;
     
             h1 {

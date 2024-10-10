@@ -4,15 +4,14 @@
         <div class="school">
             <div class="school-two">
              <img src="/assets/school.png" alt="School">
-             <h1>School?</h1>
+             <h1>My Journey to College</h1>
             </div>
-             <p>Gordon College's Bachelor of Science in Computer 
-                Science (BSCS) program provides a strong foundation in computing, 
-                covering programming, algorithms, software development, 
-                and newer fields like AI and cybersecurity. 
-                It emphasizes hands-on projects and internships, 
-                equipping students with both theoretical knowledge and practical 
-                skills for careers in technology.</p>
+             <p>My journey to college has been enjoyable, but it hasn’t always been easy. 
+                It gets especially 
+                tough when project deadlines come around. I often struggled with procrastination, 
+                which meant I didn't always submit on time. Now, I realize that the course I chose 
+                is more challenging than I initially thought. But even with the difficulties, 
+                I’ve learned a lot and continue to grow. Haha!</p>
         </div>
     
         <div class="skill">
