@@ -151,8 +151,9 @@ section {
     .name {
         display: flex;
         flex-direction: column;
+        text-align: center;
         align-items: center;
-        width: 400px;
+        width: 350px;
         height: 150px;
         margin-bottom: 190px;
         color: white;
@@ -558,6 +559,7 @@ section {
         width: 30px;
         height: 30px;
         margin-bottom: 10px;
+        display: none;
     }
     .social2 p {
         background-color: white;
