@@ -156,6 +156,7 @@ section {
         width: 350px;
         height: 150px;
         margin-bottom: 190px;
+        margin-left: 0;
         color: white;
     
         h1 {
